@@ -1,5 +1,5 @@
-# learning git in Web apps class
-## yeah second heading
+# Learning git in Web apps class
+## done
 ### links
 [google](google.com)
 [northwest](https://nwmissouri.edu/)
