@@ -1,4 +1,4 @@
-# web-apps
+# learning git in Web apps class
 ## yeah second heading
 ### links
 [google](google.com)
@@ -6,7 +6,7 @@
 ## image
 ![checkimage](https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png)
 
-##lists
+## lists
 ## bullet list
 - one 
 - two
