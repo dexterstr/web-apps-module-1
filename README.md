@@ -1,8 +1,9 @@
-# Hello
-> This is Tarun of section 1
-## We are learning GIT here
-### Here are links for you to do shopping
-#### Go
+# PUBG
+> Player Unknown Battle Grounds
+## Season 6 Just started [Download](https://play.google.com/store/apps/details?id=com.tencent.ig) and Play the Game.
+
+### Updates
+> New Map has been released with new weapons and dangers!
 [Shopping](https://www.walmart.com/)
 [google](google.com)
 [northwest](https://nwmissouri.edu/)
