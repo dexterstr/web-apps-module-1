@@ -3,7 +3,7 @@
 ## Season 6 Just started [Download](https://play.google.com/store/apps/details?id=com.tencent.ig) and Play the Game.
 
 ### Updates
-> New Map has been released with new weapons and dangers!
+ New Map has been released with new weapons and dangers!
 [Shopping](https://www.walmart.com/)
 [google](google.com)
 [northwest](https://nwmissouri.edu/)
