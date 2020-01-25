@@ -18,14 +18,16 @@ image taken from[pubg](https://www.pubg.com/2020/01/16/console-update-6-1-patch-
 ## You hate this ? Okay Let's talk about another Multiplayer Game.
 
 # DOTA 2 
-![DOTA](https://steamuserimages-a.akamaihd.net/ugc/923667520406735538/FFDBBD17E217B1C93E771526EA558BCCC1BE81B5/?imw=1024&imh=640&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
-[Source:DOTA](http://blog.dota2.com/wp-includes/images/blank.gif)
+![DOTA](https://cdn.vox-cdn.com/thumbor/KSFusNAEyV1TupIMbIXv7N2qs04=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6645195/dota-2-logo.0.jpg)
+Source:[theverge.com](https://cdn.vox-cdn.com/thumbor/bEZqHrz04RspoMRVxOMIf_itwSM=/0x0:660x360/920x0/filters:focal(0x0:660x360):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/6645195/dota-2-logo.0.jpg)
 
 ## what is this Game about ?
 Player must choose a character(Heroes) from given 100 options. He/She must play whole game with chosen character. The default mode is a 5vs5 Multiplayer game where you can win/lose with infinitie possibilties.It's a complete strategic game and depends on all your team-mates. 
 
 ## Game Heroes
-![heroes](https://www.gametruth.com/wp-content/uploads/2019/03/WIrRr4j-1024x530.jpg)
+These are the ![heroes](https://www.gametruth.com/wp-content/uploads/2019/03/WIrRr4j-1024x530.jpg).
+source[gametruth.com](https://www.gametruth.com/wp-content/uploads/2019/03/WIrRr4j-1024x530.jpg)
+
 Heroes are listed based on:
 1. Agility
 2. Strength
