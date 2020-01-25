@@ -25,7 +25,7 @@ Source:[theverge.com](https://cdn.vox-cdn.com/thumbor/bEZqHrz04RspoMRVxOMIf_itwS
 Player must choose a character(Heroes) from given 100 options. He/She must play whole game with chosen character. The default mode is a 5vs5 Multiplayer game where you can win/lose with infinitie possibilties.It's a complete strategic game and depends on all your team-mates. 
 
 ## Game Heroes
-These are the ![heroes](https://www.gametruth.com/wp-content/uploads/2019/03/WIrRr4j-1024x530.jpg).
+These are the heroesin game.![heroes](https://www.gametruth.com/wp-content/uploads/2019/03/WIrRr4j-1024x530.jpg)
 source[gametruth.com](https://www.gametruth.com/wp-content/uploads/2019/03/WIrRr4j-1024x530.jpg)
 
 Heroes are listed based on:
